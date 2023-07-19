@@ -1,0 +1,14 @@
+"integration_subtype": "pull_requests",
+        "collection_interval": "month",
+        "config": {
+            "repositories": [
+                {
+                    "branch": "main",
+                    "repository": "maylam36/test-git-hub"
+                },
+                {
+                    "branch": "maylam36-patch-2",
+                    "repository": "maylam36/test-git-hub"
+                }
+            ]
+        }
